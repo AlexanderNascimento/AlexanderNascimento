@@ -8,7 +8,7 @@
 
 - :phone: +55 15 99720-5720
 
-- [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png'  height="12px">][linkdin]
+ [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png'  height="12px">][linkdin]
 
   
 ### Languages and Tools:
