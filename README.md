@@ -22,8 +22,6 @@
 
 <img src="https://www.w3.org/html/logo/badge/html5-badge-h-css3.png"  height="16" alt="HTML5 Powered with CSS3 / Styling" title="HTML5 Powered with CSS3 / Styling">
 
-<br>
-<br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexanderNascimento&hide=contribs,prs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
